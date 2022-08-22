@@ -35,5 +35,4 @@
    <h2> EG QUITORIANO & JEZREEL VIGO MARCELO </h2>
    <h3> Jez the Racist </h3>
 
-   <h3> Maritite loves Pia </h3>
 </form>
