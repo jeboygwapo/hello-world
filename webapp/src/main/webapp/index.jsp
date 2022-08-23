@@ -32,7 +32,5 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> EG QUITORIANO & JEZREEL VIGO MARCELO </h2>
-   <h3> hala nag breakdown si ex</h3>
-   <h3> hala nag selfie si ex </h3>
+   <h2> HI EMEM Q LABYU </h2>
 </form>
