@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h2> EG QUITORIANO & JEZREEL VIGO MARCELO </h2>
-   <h3> Jeboycutie </h3>
+   <h3> Mahal pa ni EG si D </h3>
 
 </form>
